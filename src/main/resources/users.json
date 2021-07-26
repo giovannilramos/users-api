@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "60fe2216e126ba32d055c86b"
+  },
+  "nome": "Giovanni Lucas Ramos",
+  "email": "giovannilramos55@gmail.com",
+  "cel": "19997552284",
+  "_class": "br.com.giovanni.users.entities.User"
+}]
